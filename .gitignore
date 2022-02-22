@@ -1,5 +1,19 @@
+# These are RGPMaker files, so of cause we can't just share these (and also it's useless without RPGMaker access codes)
 SciLexer.dll
 selpoint.bmp
 RGSS102E.dll
 PSIKey.dll
 RPGXP.exe
+# There are files that never actually change. Unless they be changed they will stay on this list.
+animmaker.exe
+animmaker.txt
+"Essentials Docs Wiki.exe" 
+extendtext.exe
+extendtext.txt
+Game.exe 
+Game.ini
+knownpoint.bmp
+soundfont.sf2
+x64-msvcrt-ruby300.dll
+zlib1.dll
+Fonts/
